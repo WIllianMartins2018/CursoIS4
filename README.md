@@ -1,4 +1,4 @@
-# CursoIS4
+# Criação e Estruturação do Projeto
 Estudos Sobre Fundamentos de Identity Server 4
 
 # CRIAÇÃO DO PROJETO
